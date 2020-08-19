@@ -1,6 +1,6 @@
-AI-ML
-Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves
-Machine learning uses examples of input and expected output (so called “structured data” or “training data”), in order to continually improve and make decisions without being programmed how to do so in a step-by-step sequence of instructions
+
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+Machine learning uses examples of input and expected output (so called “structured data” or “training data”), in order to continually improve and make decisions without being programmed how to do so in a step-by-step sequence of instructions.
 The purpose of machine learning is to discover patterns in your data and then make predictions based on often complex patterns to answer business questions, detect and analyse trends and help solve problems.
 Supervised learning: The computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that maps inputs to outputs.
 Unsupervised learning: No labels are given to the learning algorithm, leaving it on its own to find structure in its input. Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end (feature learning).
